@@ -19,7 +19,7 @@ BACKGROND = (0, 0, 0)
 CIRCLE_COLOR = (255, 255, 255)
 
 CIRCLE_RADIUS = 20
-krug = pygame.image.load("krug.png")
+krug = pygame.image.load("Pakman.png")
 
 circle_pos = (320,240)
 
